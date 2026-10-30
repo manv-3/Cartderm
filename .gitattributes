@@ -1,0 +1,10 @@
+# Set default behavior to automatically normalize line endings.
+* text=auto
+
+# Markdown files are strictly text
+*.md text
+*.ts text
+*.tsx text
+*.json text
+*.js text
+*.css text
